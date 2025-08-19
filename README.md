@@ -1,4 +1,4 @@
-# FinalProjects_ElevateLabs
+# Data Analytics Final Project_ Elevate Labs
 INTERNSHIP PROJECT PHASE
 
 This Repository contains project files for two projects : 
